@@ -18,3 +18,7 @@ __Can our users just talk to the software and design their own space__
 
 ## Demo Project System Sketch
 ![](https://raw.githubusercontent.com/sanchitgulati/godot4-gpt3-whisper-demo/main/GPT3.drawio.png)
+
+
+## Youtube
+[![VIDEO DEMO](https://img.youtube.com/vi/XTuL233ZaY8/0.jpg)](https://www.youtube.com/watch?v=XTuL233ZaY8)
