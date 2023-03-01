@@ -1,0 +1,9 @@
+[gd_scene load_steps=3 format=3 uid="uid://dtbtlryx3g0o4"]
+
+[ext_resource type="PackedScene" uid="uid://bgifwivay4rre" path="res://Models/Female/Female.fbx" id="1_wrnoh"]
+[ext_resource type="Material" uid="uid://c4ijfkicm1ny3" path="res://Materials/Skin.tres" id="2_ac81u"]
+
+[node name="Female" instance=ExtResource("1_wrnoh")]
+
+[node name="Beta_Surface" parent="RootNode/Skeleton3D" index="0"]
+material_override = ExtResource("2_ac81u")
